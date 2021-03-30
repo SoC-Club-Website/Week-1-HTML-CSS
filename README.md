@@ -16,7 +16,7 @@ For basic designing, both flexbox and grid have great powers and you may use any
     <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started">MDN</a></li>
     <li><a href="https://www.w3schools.com">W3School</a></li>
   </ul>
-<h2> Practise</h2>
+<h2> Practice</h2>
   We will release the assignment based on these topics on Friday so try to cover the video by then. Meanwhile you can do any of the projects listed below to practise your skills (You don't have to submit these).<br>
   <ul>
   <li><a href="https://www.youtube.com/watch?v=-qOe8lBAChE&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=14&t=64s">Gridbox</a></li>
