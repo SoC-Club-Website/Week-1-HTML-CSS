@@ -8,7 +8,7 @@ For basic designing, both flexbox and grid have great powers and you may use any
 <ul>
   <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY">CSS Grid</a> </li>
   <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9i3FXJSUfmsNOx8E7u6UuhG">CSS Flexbox</a> </li>
-  <li<a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5">CSS Animation</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5">CSS Animation</a></li>
 </ul>
 <h2> Extra Material</h2>
   If you get stuck in the content covered till now or would like to explore HTML/CSS in detail visit the links below and navigate to the topic you would like to learn from the left sidebar.
